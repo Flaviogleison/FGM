@@ -1,2 +1,2 @@
 # FGM
-Tala Inicial de um Sistema (Projeto Escolar)
+Tala Inicial de um Sistema WEB (Projeto Escolar)
